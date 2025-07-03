@@ -21,6 +21,5 @@ http://localhost:8000
 ```
 python3 manage.py createsuperuser
 ```
-
-измените POSTGRES_HOST=db
+создайте пользователя, после создания пользователя, измените POSTGRES_HOST=db
 
