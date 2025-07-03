@@ -16,7 +16,7 @@ http://localhost:8000
 
 #### создание суперюзера
 
-запустите приложение, измените в .env файле POSTGRES_HOST=localhost
+запустите приложение, измените в backend/.env файле POSTGRES_HOST=localhost
 выполните команду 
 ```
 python3 manage.py createsuperuser
